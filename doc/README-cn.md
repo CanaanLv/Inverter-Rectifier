@@ -1,10 +1,10 @@
-<center><img src="../img/img-home.jpg" alt="" width="600px" style="display: inline-block" /></center>
+<div align=center ><img src="../img/img-home.jpg" alt="" width="600px" style="display: inline-block" /></div>
 
-<center>简单的直流电与交流电相互转换模块</center>
+<div align=center >简单的直流电与交流电相互转换模块</div>
 
 -------
 
-<center><img src="https://img.shields.io/badge/Protel%20DXP-v16.0.1-blue" alt="Protel DXP version" style="display: inline-block" /> <img src="https://img.shields.io/badge/version-v1.0-orange" alt="version" style="display: inline-block" /> <img src="https://img.shields.io/badge/model-CL--IR--01-orange" alt="model:CL-IR-01" style="display: inline-block" /> <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT" style="display: inline-block" /></center>
+<div align=center ><img src="https://img.shields.io/badge/Protel%20DXP-v16.0.1-blue" alt="Protel DXP version" style="display: inline-block" /> <img src="https://img.shields.io/badge/version-v1.0-orange" alt="version" style="display: inline-block" /> <img src="https://img.shields.io/badge/model-CL--IR--01-orange" alt="model:CL-IR-01" style="display: inline-block" /> <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT" style="display: inline-block" /></div>
 
 For English version [English Documentation](../README.md).
 
@@ -54,7 +54,7 @@ For English version [English Documentation](../README.md).
 
 电路下图所示：
 
-<center><img src="../img/img1.jpg" alt="" width="600px" style="display: inline-block" /></center>
+<div align=center ><img src="../img/img1.jpg" alt="" width="600px" style="display: inline-block" /></div>
 
 其中R2、R4、R6、R8是较为重要的元件，电阻的作用是在基极状态变换时缓解电压突变、而电流无法突变时，对MOSFIT产生的巨大冲击。其阻值微小的变化就可能对输出波形的尖峰与振铃带来可观的缓解。
 
@@ -64,7 +64,7 @@ For English version [English Documentation](../README.md).
 
 电路图如下：
 
-<center><img src="../img/img2.jpg" alt="" width="600px" style="display: inline-block" /></center>
+<div align=center ><img src="../img/img2.jpg" alt="" width="600px" style="display: inline-block" /></div>
 
 此电路中，C3自举电容的作用将成为理解电路的关键。自举电容就是在低端管开通时充电积攒电压；在高端管将要开通时，将积攒的电压叠加在源极上传输给基极，实现高端管的开通。此电容的容值不必很大，使用钽电容也可达到同样的效果。
 
